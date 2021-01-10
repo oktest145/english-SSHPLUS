@@ -9,7 +9,7 @@ echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━�
 echo ""
 systemctl stop apache2
 fuser -k 80
-wget -q https://raw.githubusercontent.com/PHCitizen/SSH-Plus-English-Version/main/upload-ovpn.sh
+wget -q https://raw.githubusercontent.com/starrising321/english-SSHPLUS/main/upload-ovpn.sh
 echo "wait..."
 sudo apt install nginx -y
 cp /tmp/upload-ovpn.sh /usr/bin/
