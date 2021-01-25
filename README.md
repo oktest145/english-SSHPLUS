@@ -35,5 +35,5 @@ cd /tmp && mkdir /tmp/SSH-PLUS-ENG/ && wget https://raw.githubusercontent.com/st
 -------------------------------------------------------------------------------
 # Credits
 SSHPLUS BY VPSMAX VIP - PREMIUM Script   -                        -              
-REQUESTED BY STAR_JANI & Biin Baadal Barsaat
+REQUESTED BY ☆ https://t.me/star_Jani ☆ https://t.me/StarZany
 >
