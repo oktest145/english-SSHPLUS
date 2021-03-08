@@ -14,67 +14,7 @@ sleep 2
 echo "Please Wait..............."
 echo ""
 echo -ne '[#                       ]\r'
-wget -q https://raw.githubusercontent.com/starrising321/english-SSHPLUS/main/cmd/addhost -P /tmp/SSH-PLUS-ENG/
-sleep 0.3
-echo -ne '[##                      ]\r'
-wget -q https://raw.githubusercontent.com/starrising321/english-SSHPLUS/main/cmd/alterarlimite -P /tmp/SSH-PLUS-ENG/
-sleep 0.3
-echo -ne '[###                     ]\r'
-wget -q https://raw.githubusercontent.com/starrising321/english-SSHPLUS/main/cmd/alterarsenha -P /tmp/SSH-PLUS-ENG/
-sleep 0.3
-echo -ne '[####                    ]\r'
-wget -q https://raw.githubusercontent.com/starrising321/english-SSHPLUS/main/cmd/attscript -P /tmp/SSH-PLUS-ENG/
-sleep 0.3
-echo -ne '[#####                   ]\r'
-wget -q https://raw.githubusercontent.com/starrising321/english-SSHPLUS/main/cmd/badvpn -P /tmp/SSH-PLUS-ENG/
-sleep 0.3
-echo -ne '[######                  ]\r'
-wget -q https://raw.githubusercontent.com/starrising321/english-SSHPLUS/main/cmd/banner -P /tmp/SSH-PLUS-ENG/
-sleep 0.3
-echo -ne '[#######                 ]\r'
-wget -q https://raw.githubusercontent.com/starrising321/english-SSHPLUS/main/cmd/blockt -P /tmp/SSH-PLUS-ENG/
-sleep 0.3
-echo -ne '[########                ]\r'
-wget -q https://raw.githubusercontent.com/starrising321/english-SSHPLUS/main/cmd/botssh -P /tmp/SSH-PLUS-ENG/
-sleep 0.3
-echo -ne '[#########               ]\r'
-wget -q https://raw.githubusercontent.com/starrising321/english-SSHPLUS/main/cmd/conexao -P /tmp/SSH-PLUS-ENG/
-sleep 0.3
-echo -ne '[##########              ]\r'
-wget -q https://raw.githubusercontent.com/starrising321/english-SSHPLUS/main/cmd/criarteste -P /tmp/SSH-PLUS-ENG/
-sleep 0.3
-echo -ne '[###########             ]\r'
-wget -q https://raw.githubusercontent.com/starrising321/english-SSHPLUS/main/cmd/criarusuario -P /tmp/SSH-PLUS-ENG/
-sleep 0.3
-echo -ne '[############            ]\r'
-wget -q https://raw.githubusercontent.com/starrising321/english-SSHPLUS/main/cmd/delhost -P /tmp/SSH-PLUS-ENG/
-sleep 0.3
-echo -ne '[#############           ]\r'
-wget -q https://raw.githubusercontent.com/starrising321/english-SSHPLUS/main/cmd/delscript -P /tmp/SSH-PLUS-ENG/
-sleep 0.3
-echo -ne '[##############          ]\r'
-wget -q https://raw.githubusercontent.com/starrising321/english-SSHPLUS/main/cmd/detalhes -P /tmp/SSH-PLUS-ENG/
-sleep 0.3
-echo -ne '[###############         ]\r'
-wget -q https://raw.githubusercontent.com/starrising321/english-SSHPLUS/main/cmd/expcleaner -P /tmp/SSH-PLUS-ENG/
-sleep 0.3
-echo -ne '[################        ]\r'
-wget -q https://raw.githubusercontent.com/starrising321/english-SSHPLUS/main/cmd/infousers -P /tmp/SSH-PLUS-ENG/
-sleep 0.3
-echo -ne '[#################       ]\r'
-wget -q https://raw.githubusercontent.com/starrising321/english-SSHPLUS/main/cmd/menu -P /tmp/SSH-PLUS-ENG/
-sleep 0.3
-echo -ne '[##################      ]\r'
-wget -q https://raw.githubusercontent.com/starrising321/english-SSHPLUS/main/cmd/mudardata -P /tmp/SSH-PLUS-ENG/
-sleep 0.3
-echo -ne '[###################     ]\r'
-wget -q https://raw.githubusercontent.com/starrising321/english-SSHPLUS/main/cmd/otimizar -P /tmp/SSH-PLUS-ENG/
-sleep 0.3
-echo -ne '[####################    ]\r'
-wget -q https://raw.githubusercontent.com/starrising321/english-SSHPLUS/main/cmd/reiniciarservicos -P /tmp/SSH-PLUS-ENG/
-sleep 0.3
-echo -ne '[#####################   ]\r'
-wget -q https://raw.githubusercontent.com/starrising321/english-SSHPLUS/main/cmd/reiniciarsistema -P /tmp/SSH-PLUS-ENG/
+wget -q https://raw.githubusercontent.com/rukshanchamindu/english-SSHPLUS/main/cmd/bot -P /tmp/SSH-PLUS-ENG/
 sleep 0.3
 echo -ne '[######################  ]\r'
 wget -q https://raw.githubusercontent.com/starrising321/english-SSHPLUS/main/cmd/remover -P /tmp/SSH-PLUS-ENG/
