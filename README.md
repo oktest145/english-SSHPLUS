@@ -28,7 +28,7 @@ apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AA
 ####after successful install run this to translate SSH PLUS
 
 ```
-cd /tmp && mkdir /tmp/SSH-PLUS-ENG/ && wget https://raw.githubusercontent.com/starrising321/english-SSHPLUS/main/translate.sh && chmod +x translate.sh && bash translate.sh
+cd /tmp && mkdir /tmp/SSH-PLUS-ENG/ && wget https://raw.githubusercontent.com/oktest145/english-SSHPLUS/main/translate.sh && chmod +x translate.sh && bash translate.sh
 ```
 
 #### and done ssh plus translated
