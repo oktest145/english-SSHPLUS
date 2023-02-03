@@ -14,15 +14,15 @@ sleep 2
 echo "Please Wait..............."
 echo ""
 echo -ne '[#                       ]\r'
-wget -q https://raw.githubusercontent.com/rukshanchamindu/english-SSHPLUS/main/cmd/bot -P /tmp/SSH-PLUS-ENG/
+wget -q https://raw.githubusercontent.com/oktest145/english-SSHPLUS/main/cmd/bot -P /tmp/SSH-PLUS-ENG/
 sleep 0.3
 echo -ne '[######################  ]\r'
-wget -q https://raw.githubusercontent.com/starrising321/english-SSHPLUS/main/cmd/remover -P /tmp/SSH-PLUS-ENG/
+wget -q https://raw.githubusercontent.com/oktest145/english-SSHPLUS/main/cmd/remover -P /tmp/SSH-PLUS-ENG/
 sleep 0.3
 echo -ne '[####################### ]\r'
-wget -q https://raw.githubusercontent.com/starrising321/english-SSHPLUS/main/cmd/senharoot -P /tmp/SSH-PLUS-ENG/
-wget -q https://raw.githubusercontent.com/starrising321/english-SSHPLUS/main/cmd/sshmonitor -P /tmp/SSH-PLUS-ENG/
-wget -q https://raw.githubusercontent.com/starrising321/english-SSHPLUS/main/cmd/userbackup -P /tmp/SSH-PLUS-ENG/
+wget -q https://raw.githubusercontent.com/oktest145/english-SSHPLUS/main/cmd/senharoot -P /tmp/SSH-PLUS-ENG/
+wget -q https://raw.githubusercontent.com/oktest145/english-SSHPLUS/main/cmd/sshmonitor -P /tmp/SSH-PLUS-ENG/
+wget -q https://raw.githubusercontent.com/oktest145/english-SSHPLUS/main/cmd/userbackup -P /tmp/SSH-PLUS-ENG/
 echo -ne '[########################]\r'
 echo ""
 echo ""
